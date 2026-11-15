@@ -1,6 +1,6 @@
 # Hand Control
 
-Hand Control is a webcam-based gesture control project built with MediaPipe, OpenCV, and PyAutoGUI. It lets you control the mouse and common system actions using right-hand and left-hand gestures. 
+Hand Control is a webcam-based gesture control project built with MediaPipe, OpenCV, and PyAutoGUI. It lets you control the mouse and common system actions using right-hand and left-hand gestures.
 
 ## Features
 
